@@ -14,9 +14,9 @@ Order
 Name
 Type
 Color
-Forme
-Isshu Dex: Search Mode
-National Dex: Search Mode
+Form
+Isshu Dex Search 
+National Dex Search 
 Reset
 Start
 Cancel
@@ -24,7 +24,7 @@ Cancel
 Accept
 Cancel
 Numerical
-A to Z
+Alphabetical
 Heaviest
 Lightest
 Tallest
