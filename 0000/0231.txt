@@ -55,11 +55,11 @@ Cyprus
 Czech Republic
 North Korea
 Democratic Republic of the Congo
-Eastern Timor
 Denmark
 Djibouti
 Dominica
 Dominican Republic
+East Timor
 Ecuador
 Egypt
 El Salvador
@@ -102,7 +102,6 @@ Isle of Man
 Israel
 Italy
 Jamaica
-Svalbard
 Japan
 Jordan
 Kashmir
@@ -127,6 +126,7 @@ Malaysia
 Maldives
 Mali
 Malta
+Mariana Islands
 Marshall Islands
 Martinique
 Mauritania
@@ -134,6 +134,7 @@ Mauritius
 Mayotte
 Mexico
 Micronesia
+Moldova
 Monaco
 Mongolia
 Montenegro
@@ -152,7 +153,7 @@ Niger
 Nigeria
 Niue
 Norfolk
-Mariana Islands
+North Korea
 Norway
 Oman
 Pakistan
@@ -168,8 +169,6 @@ Poland
 Portugal
 Puerto Rico
 Qatar
-South Korea
-Moldova
 Reunion
 Romania
 Russia
@@ -177,8 +176,8 @@ Rwanda
 Saint Helena
 Saint Kitts and Nevis
 Saint Lucia
-Saint Vincent and the Grenadines
 Saint Pierre and Miquelon
+Saint Vincent and the Grenadines
 Samoa
 San Marino
 Sao Tome and Principe
@@ -193,16 +192,19 @@ Slovenia
 Solomon Islands
 Somalia
 South Africa
+South Korea
 Spain
 Sri Lanka
 Sudan
 Suriname
+Svalbard
 Swaziland
 Sweden
 Switzerland
 Syria
 Taiwan
 Tajikistan
+Tanzania
 Thailand
 Togo
 Tokelau
@@ -217,9 +219,8 @@ Uganda
 Ukraine
 United Arab Emirates
 United Kingdom
-Tanzania
-Unites States
-American Virgin Islands
+United States
+United States Virgin Islands
 Uruguay
 Uzbekistan
 Vanuatu
